@@ -1,6 +1,6 @@
 [
   {
-    "arielos": "true",
+    "arielos": true,
     "repository": "proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi"
   }
